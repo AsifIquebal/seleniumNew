@@ -7,10 +7,8 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import pageObjects.LoginPage;
 
-import java.lang.reflect.Method;
-
 @Feature("Bill Payment Test Cases")
-public class TestClass3 extends BaseTest {
+public class TestClass1 extends BaseTest {
 
     @BeforeMethod
     public void setUp(){

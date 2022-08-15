@@ -7,7 +7,6 @@ import org.openqa.selenium.firefox.FirefoxDriverLogLevel;
 import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.firefox.FirefoxProfile;
 
-
 public class OptionsManager {
 
     public static ChromeOptions getChromeOptions() {

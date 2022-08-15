@@ -5,7 +5,7 @@
 
     <test name="BillPayment Test">
         <classes>
-            <class name="TestClass3"/>
+            <class name="TestClass1"/>
         </classes>
     </test>
 

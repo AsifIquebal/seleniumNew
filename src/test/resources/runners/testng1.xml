@@ -4,7 +4,7 @@
 <suite name="Parabank Test Suite" verbose="4" thread-count="4" parallel="methods">
     <test name="BillPayment Test">
         <classes>
-            <class name="TestClass3">
+            <class name="TestClass1">
                 <methods>
 					<include name="test01_verifyBillPaymentSuccessCase">
                         <parameter name="browser" value="Chrome"/>
